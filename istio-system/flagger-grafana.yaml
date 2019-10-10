@@ -16,5 +16,5 @@ spec:
     url: http://prometheus.istio-system:9090
     image:
       repository: grafana/grafana
-      tag: 6.2.5
+      tag: 6.4.2
       pullPolicy: IfNotPresent
